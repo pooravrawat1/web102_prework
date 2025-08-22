@@ -26,9 +26,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 https://github.com/user-attachments/assets/926792e6-d1e8-4ef0-aa99-d0e3454dd43c
-<img src='C:\Users\hp\Desktop\CS\web102_recording' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
 
 GIF created with ... Snipping Tool
 
